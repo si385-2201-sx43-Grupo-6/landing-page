@@ -1,0 +1,74 @@
+body {
+    font-weight: bold;
+    font-family: "Comic Sans MS", serif;
+    color: black;
+}
+.btn{
+    margin: 5px;
+    color: black;
+    font-weight: bold;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 100px;
+    background-color: #3377ff;
+}
+
+#SecNavigationBar {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Comic Sans MS", serif;
+}
+#logo {
+    max-width: 50px;
+    max-height: 50px;
+}
+#navBar{
+    padding: 0;
+}
+#divNavBar{
+    background-color: #99bbff;
+}
+.nav-item{
+    padding: 0;
+    margin: 5px;
+}
+
+#contenedorSecPres {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#colum01 {
+    padding: 5%;
+    width: 50%;
+}
+#colum02 {
+    padding: 5%;
+    width: 50%;
+}
+#tartamudo {
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+    border: 1px solid black;
+}
+#parrafoBienvenida {
+    height: 70%;
+}
+#titulo {
+    font-weight: bold;
+}
+#descargas {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 30%;
+}
+#descargarGoogle {
+    width: 50%;
+    height: 100%;
+}
+#descargarApple {
+    width: 50%;
+    height: 100%;
+}

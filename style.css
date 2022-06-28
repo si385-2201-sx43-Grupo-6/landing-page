@@ -1,0 +1,53 @@
+body {
+    font-weight: bold;
+    font-family: "Comic Sans MS", serif;
+    color: black;
+}
+.btn{
+    margin: 5px;
+    color: black;
+    font-weight: bold;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 100px;
+    background-color: #3377ff;
+}
+
+#SecMission {
+    background-color: #99bbff;
+    padding: 5%;
+    text-align: center;
+}
+.ContentSecMission {
+    margin: 1% 0 1% 0;
+}
+
+#contenedorSecAT {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    text-align: center;
+}
+.ATcolum {
+    padding: 2% 0 0 0;
+    width: 50%;
+}
+.imgAT {
+    width: 70%;
+    height: 200px;
+    border-radius: 50px;
+    border: 1px solid black;
+}
+#tituloSecAppTools {
+    text-align: center;
+    margin: 1% 0 0 0;
+}
+.ContentSecAppTools {
+    text-align: center;
+    margin: 0 0 5% 0;
+}
+#tituloSecAppSub {
+    text-align: center;
+    margin: 0 0 1% 0;
+}

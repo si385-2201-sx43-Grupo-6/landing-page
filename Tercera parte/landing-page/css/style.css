@@ -1,0 +1,49 @@
+body {
+    font-weight: bold;
+    font-family: "Comic Sans MS", serif;
+    color: black;
+}
+.btn{
+    margin: 5px;
+    color: black;
+    font-weight: bold;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 100px;
+    background-color: #3377ff;
+}
+.SectionContent {
+    padding: 5%;
+}
+.Image {
+    border-radius: 50px;
+    border: 1px solid black;
+}
+
+#SecRecordWords { background-color: #99bbff; }
+#SecPracticeVocabulary { background-color: #99bbff; }
+#TitleAT {
+    text-align: center;
+}
+.SectionContentAT {
+    padding: 2% 5% 2% 5%;
+}
+.Container_SAT {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.SAT_ColumText {
+    padding: 0 5% 0 5%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+.SAT_ColumImg {
+    padding: 0 5% 0 5%;
+    width: 50%;
+}
+.ImgSecAT {
+    width: 50%;
+}

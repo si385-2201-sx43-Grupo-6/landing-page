@@ -1,0 +1,54 @@
+body {
+    font-weight: bold;
+    font-family: "Comic Sans MS", serif;
+    color: black;
+}
+.btn{
+    margin: 5px;
+    color: black;
+    font-weight: bold;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 100px;
+    background-color: #3377ff;
+}
+.SectionContent {
+    padding: 5%;
+}
+.Image {
+    border-radius: 50px;
+    border: 1px solid black;
+}
+
+#SecMission {
+    background-color: #99bbff;
+    padding: 5% 15% 5% 15%;
+    text-align: center;
+}
+.ContentSecMission {
+    margin: 1% 0 1% 0;
+}
+
+#tituloSecAppSub {
+    text-align: center;
+    margin: 0 0 1% 0;
+}
+#SecAppSubscriptions {
+    background-color: #99bbff;
+    padding: 5%;
+}
+.col-sm-6{
+    padding: 1%;
+    width: 33%;
+    height: 100%;
+    text-align: center;
+}
+.card-title {
+    font-weight: bold;
+    text-align: center;
+}
+.card {
+    color: white;
+    background-color: #002D86;
+    border-radius: 50px;
+}

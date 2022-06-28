@@ -1,0 +1,182 @@
+body {
+    font-weight: bold;
+    font-family: "Comic Sans MS", serif;
+    color: black;
+}
+.btn{
+    margin: 5px;
+    color: black;
+    font-weight: bold;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 100px;
+    background-color: #3377ff;
+}
+.SectionContent {
+    padding: 5%;
+}
+.Image {
+    border-radius: 50px;
+    border: 1px solid black;
+}
+
+#SecNavigationBar {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Comic Sans MS", serif;
+}
+#logo {
+    max-width: 50px;
+    max-height: 50px;
+}
+#navBar{
+    padding: 0;
+}
+#divNavBar{
+    background-color: #99bbff;
+}
+.nav-item{
+    padding: 0;
+    margin: 3px;
+}
+
+#Container_SP {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#SP_Colum01 {
+    padding: 5%;
+    width: 50%;
+}
+#SP_Colum02 {
+    padding: 5%;
+    width: 50%;
+}
+#ImgTartamudo {
+    width: 100%;
+    height: 100%;
+}
+#ParrafoBienvenida {
+    height: 70%;
+}
+#Title {
+    font-weight: bold;
+}
+#Downloads {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 30%;
+}
+#descargarGoogle {
+    padding: 1%;
+    width: 50%;
+    height: 100%;
+}
+#descargarApple {
+    padding: 1%;
+    width: 50%;
+    height: 100%;
+}
+
+#SecMission {
+    background-color: #99bbff;
+    padding: 5% 15% 5% 15%;
+    text-align: center;
+}
+.ContentSecMission {
+    margin: 1% 0 1% 0;
+}
+
+#SecRecordWords { background-color: #99bbff; }
+#SecPracticeVocabulary { background-color: #99bbff; }
+#TitleAT {
+    text-align: center;
+}
+.SectionContentAT {
+    padding: 2% 5% 2% 5%;
+}
+.Container_SAT {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.SAT_ColumText {
+    padding: 0 5% 0 5%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+.SAT_ColumImg {
+    padding: 0 5% 0 5%;
+    width: 50%;
+}
+.ImgSecAT {
+    width: 50%;
+}
+
+#tituloSecAppSub {
+    text-align: center;
+    margin: 0 0 1% 0;
+}
+#SecAppSubscriptions {
+    background-color: #99bbff;
+    padding: 5%;
+}
+.col-sm-6{
+    padding: 1%;
+    width: 33%;
+    height: 100%;
+    text-align: center;
+}
+.card-title {
+    font-weight: bold;
+    text-align: center;
+}
+.card {
+    color: white;
+    background-color: #002D86;
+    border-radius: 50px;
+}
+
+#SecWorkWithUs {
+    padding: 5%;
+}
+#contenedorSecWWU {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    text-align: center;
+}
+.WWUcolum {
+    padding: 0 5% 0 5%;
+    width: 50%;
+}
+
+#SecContactInformation {
+    padding: 1%;
+    background-color: #99bbff;
+}
+#contenedorSecCI {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    text-align: center;
+}
+.CIcolum {
+    padding: 0 1% 0 1%;
+    width: 33%;
+}
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+#SecAllRightsReserved {
+    padding: 1%;
+    text-align: center;
+}
